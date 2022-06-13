@@ -1,5 +1,6 @@
 # BAMInSAR
 How to form an interferogram by SNAP processor and qualify it to understand the Earthquake in BAM city
+
 SAR data is available at: https://zenodo.org/record/6637432
 
 
